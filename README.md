@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Reinaldo+Flaviano;I'm+25+years+old;I'm+from+Brazil;I+Graduated+analysis+and+systems+development+Full+back-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Reinaldo+Flaviano;I'm+25+years+old;I'm+from+Brazil;I+Graduated-analysis+and+systems+development+Full+back-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <p align="center">Desenvolvedor Back-end Pleno com mais de 2 anos no mercado de trabalho amplo
 conhecimento em estrutura do Node.js, focado em melhorar e aumentar a
 escalabilidade de aplicações. Experiente em participar de reuniões de pequenos
